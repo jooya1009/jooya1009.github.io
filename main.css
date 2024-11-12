@@ -1,0 +1,45 @@
+h1{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 50px;
+}
+
+#welcomTxt{
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 20px;
+}
+
+.card_wrap{
+    display: flex;
+    justify-content: center;
+}
+
+.card{
+    text-align: center;
+    font-weight: bold;
+    width: 350px;
+    margin-right: 50px;
+}
+
+.card3{
+    margin: 0;
+}
+
+.card_img{
+    width: 350px;
+    height: 350px;
+}
+
+.card_title{
+    font-size: 20px;
+}
+
+.card_btn{
+    width: 350px;
+    height: 60px;
+    font-size: 20px;
+    border: none;
+    background-color: rgb(112, 73, 21);
+    color: #FFF;
+}
